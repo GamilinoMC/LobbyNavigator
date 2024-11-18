@@ -1,0 +1,6 @@
+name: LobbyPlugin
+author: GamilinoMCYT
+version: 1.0.0
+api:
+  - 5.0.0
+main: PotsVerse\GamilinoMC\LobbyPlugin\LobbyPlugin
